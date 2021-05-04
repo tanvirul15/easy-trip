@@ -1,0 +1,12 @@
+.fare__card {
+  display: flex;
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+}
+.fare__card img {
+  width: 100px;
+}
